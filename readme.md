@@ -96,7 +96,7 @@ Sistem tetap dapat digunakan ketika koneksi internet tidak stabil atau terputus.
 | Backend | Node.js, Express.js, JWT Authentication, bcrypt |
 | Database | Supabase PostgreSQL |
 | Realtime | Socket.IO |
-| Deployment | Vercel (Frontend), Railway / Render (Backend), Supabase (Database) |
+| Deployment | Vercel (Frontend), Supabase (Database) |
 
 ---
 
